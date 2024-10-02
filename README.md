@@ -14,3 +14,5 @@ Reach me on:
 ![Debasish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-debasish-09&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-debasish-09&layout=compact)
+
+![Python](https://img.shields.io/badge/Python-Expert-blue)
