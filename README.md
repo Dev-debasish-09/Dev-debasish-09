@@ -12,3 +12,5 @@ Reach me on:
 - My contribution in Data Science in[Kaggle](https://www.kaggle.com/debasishpradhan999)🖥💻
 
 ![Debasish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-debasish-09&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-debasish-09&layout=compact)
