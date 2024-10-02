@@ -11,4 +11,4 @@ Reach me on:
 - My technical blogs in [Medium Articles](https://medium.com/@debasishpra314/list/reading-list)📹 ✍🏾
 - My contribution in Data Science in[Kaggle](https://www.kaggle.com/debasishpradhan999)🖥💻
 
-![Debasish's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Debasish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-debasish-09&show_icons=true&theme=radical)
