@@ -62,21 +62,6 @@ I'm an aspiring **quantitative researcher**, **data scientist**, and **Python de
 
 ---
 
-## 🚀 Featured Projects
-
-<!--
-  Replace these with your real projects. Delete this comment when done.
-  Tip: pin your best 4-6 repositories on your GitHub profile as well.
--->
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🔹 **[Project Name](https://github.com/Dev-debasish-09/your-repo)** | One line on the problem you solved and the result | Python, Pandas, scikit-learn |
-| 🔹 **[Project Name](https://github.com/Dev-debasish-09/your-repo)** | One line on the problem you solved and the result | Python, Statistics |
-| 🔹 **[Project Name](https://github.com/Dev-debasish-09/your-repo)** | One line on the problem you solved and the result | Python, Financial Modeling |
-
----
-
 ## ✍️ Writing and Contributions
 
 - 📝 **Technical blogs:** I write about data science and machine learning on [Medium](https://medium.com/@debasishpra314/list/reading-list)
